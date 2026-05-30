@@ -412,7 +412,8 @@ Ctrl + F5
 Durante os testes foram validadas as seguintes funcionalidades:
 
 ✅ Cadastro de satélites
-<img width="1117" height="629" alt="CadastrarSatélite" src="https://github.com/user-attachments/assets/8c9377a6-2747-4f64-82bc-66e550c6227b" />
+
+<img width="800" alt="CadastrarSatélite" src="https://github.com/user-attachments/assets/8c9377a6-2747-4f64-82bc-66e550c6227b" />
 
 ✅ Listagem de satélites
 
