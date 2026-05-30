@@ -417,21 +417,41 @@ Durante os testes foram validadas as seguintes funcionalidades:
 
 ✅ Listagem de satélites
 
+<img width="800" alt="ListarSatélites" src="https://github.com/user-attachments/assets/e9a6f84d-c595-4e57-8fe2-46c61bcaaf45" />
+
 ✅ Cadastro de sensores
+
+<img width="800" alt="CadastrarSensor" src="https://github.com/user-attachments/assets/773c968d-babc-44c1-b797-74c1654a6bde" />
 
 ✅ Listagem de sensores
 
+<img width="800" alt="ListarSensores" src="https://github.com/user-attachments/assets/a1e310f1-355c-4071-a29b-51bff53563bc" />
+
 ✅ Registro de alertas de incêndio
+
+<img width="800" alt="RegistrarAlertadeIncêndio" src="https://github.com/user-attachments/assets/49d4e511-1d99-4bf9-ad95-77679514278d" />
 
 ✅ Registro de alertas de enchente
 
+<img width="800" alt="RegistrarAlertadeEnchente" src="https://github.com/user-attachments/assets/3e79a70f-84d3-4576-83a9-53ee79b1366e" />
+
 ✅ Listagem de alertas
+
+<img width="800" alt="ListarAlertas" src="https://github.com/user-attachments/assets/8d61b9bb-e056-4d4b-bbe5-b9870cfd86bd" />
 
 ✅ Geração de relatórios
 
+<img width="800" alt="GerarRelatório" src="https://github.com/user-attachments/assets/3c30c476-d627-45d6-997b-23b7a9e49964" />
+
 ✅ Tratamento de exceções
 
+<img width="800" alt="ErrodeValidação(ORiscoDeveEstarEntre1e5)" src="https://github.com/user-attachments/assets/704422fc-af83-4abc-8289-9e531aa4c6fe" />
+
+<img width="800" alt="ErroDeValidação(DigiteApenasNúmeroVálidos)" src="https://github.com/user-attachments/assets/2a1ff5da-cd1e-4de8-bafe-436075a95a44" />
+
 ✅ Encerramento seguro do sistema
+
+<img width="800" alt="Sair" src="https://github.com/user-attachments/assets/e22ae513-1fee-46d8-839e-e3e719968a22" />
 
 ---
 
